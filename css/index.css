@@ -1,0 +1,60 @@
+hr.top {
+    width: 30%;
+    margin-left: 55%;
+    margin-top: 8%;
+}
+
+hr.bottom {
+    position: absolute;
+    width: 30%;
+    margin-left: 15%;
+    bottom: 20%;
+}
+
+p.titles {
+    position: absolute;
+    top: 13%;
+    left: 34%;
+}
+
+p.specialties {
+    position: absolute;
+    margin-left: 46%;
+    bottom: 18.5%
+}
+
+div.right, div.left {
+    border-left: 15px solid black;
+    height: 380px;
+}
+
+div.right {
+    position: absolute;
+    top: 9%;
+    left: 80%;
+}
+
+div.left {
+    position: absolute;
+    bottom: 14%;
+    left: 19%;
+}
+
+.contacts {
+    display: flex;
+    justify-content: center;
+}
+
+i {
+    font-size: 36px;
+    margin-top: 2%;
+    margin-left: 1%;
+}
+
+h1.dev {
+    position: absolute;
+    bottom: 22%;
+    left: 30%;
+    font-size: 140px;
+    font-family: 'Solway', serif;
+}
