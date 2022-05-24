@@ -45,10 +45,13 @@ div.left {
     justify-content: center;
 }
 
-i {
+.contacts a {
+    text-decoration: none;
+    color: black;
     font-size: 36px;
     margin-top: 2%;
     margin-left: 1%;
+    cursor: pointer;
 }
 
 h1.dev {
